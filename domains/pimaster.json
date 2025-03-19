@@ -1,0 +1,16 @@
+{
+    "description": "Raspberry Pi Master Project",
+    "domain": "open-domains.net",
+    "subdomain": "pimaster",
+
+    "owner": {
+        "repo": "https://github.com/rgraves0/pi-master",
+        "email": "thazaw@mconn.eu.org"
+    },
+
+    "record": {
+        "NS": ["daphne.ns.cloudflare.com", "lamar.ns.cloudflare.com"]
+    },
+
+    "proxied": true
+}
